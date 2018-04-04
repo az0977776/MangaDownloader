@@ -13,7 +13,6 @@ Installing the project itself:
 git clone https://github.com/az0977776/MangaDownloader.git
 ```
 
-
 To install dependencies:
 ```sh
 pip install -r requirements.txt
@@ -28,6 +27,7 @@ python main.py
 
 - [x] saves all images as JPG
 - [x] saving as PDF of all pages
+- [ ] deal with exceptions
 - [ ] choose from multiple domains
 - [ ] search for manga name
 - [ ] download multiple chapters at once
