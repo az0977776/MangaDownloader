@@ -8,7 +8,9 @@ from natsort import natsorted
 from tabulate import tabulate
 
 domain = "https://www.mangareader.net"
-mangas = ["jagaaaaaan","kengan-ashua","shokugeki-no-soma","kingdom","bleach","naruto"]
+mangas = ["jagaaaaaan","kengan-ashua","shokugeki-no-soma",
+"kingdom","bleach","naruto","one-piece","toriko","nisekoi",
+"tokyo-ghoulre"]
 
 def download_image(url,path):
     response = requests.get(url, stream=True)
