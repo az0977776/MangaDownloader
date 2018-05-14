@@ -31,5 +31,5 @@ python main.py
 - [ ] choose from multiple domains
 - [ ] search for manga name
 - [ ] download multiple chapters at once
-- [ ] options to delete existing mangas
+- [ ] options to delete existing manga chapters
 - [ ] GUI ??
