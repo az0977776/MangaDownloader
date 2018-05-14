@@ -33,3 +33,4 @@ python main.py
 - [ ] download multiple chapters at once
 - [ ] options to delete existing manga chapters
 - [ ] GUI ??
+- [ ] accessing chapters from command line
